@@ -1,5 +1,5 @@
 # Project-1-College-Recruitment-Improvement-Study
-In this project, we were given the task to 'improve CCM's recruitment process and increase the number of individuals in its computing classes and majors' through studying the reviewing the data provided by a survey sent out by the school. 
+In this project, we were given the task to 'improve CCM's recruitment process and increase the number of individuals in its computing classes and majors' through studying and reviewing the data provided by a survey sent out by the school. 
 The questions that I set out to answer from this survey data was:
 
 - How many people have already participated in CCM tech events in the past?
