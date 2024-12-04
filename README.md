@@ -3,9 +3,13 @@ In this project, we were given the task to 'improve CCM's recruitment process an
 The questions that I set out to answer from this survey data was:
 
 -How many people have already participated in CCM tech events in the past?
+
 -Which programs had the highest impact on peoples decision to enroll in a CCM computing course?
+
 -What is the main goal of people seeking a computing goal/certificate at CCM?
+
 -Is a computing major a typical first choice for students or do many people switch into it?
+
 -Look at the records of just the Non-Computing Majors taking Computing Major classes. This group includes: Challenger, ShareTime, Non-Degree Seeking, Undecided and all those who selected Other. What is the interest level for taking another computing class? Show a bar chart with the count for each interest level.
 
 
